@@ -1,7 +1,0 @@
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\bin\Debug\Hodina12.10.22.exe.config
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\bin\Debug\Hodina12.10.22.exe
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\bin\Debug\Hodina12.10.22.pdb
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\obj\Debug\Hodina12.10.22.csprojAssemblyReference.cache
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\obj\Debug\Hodina12.10.22.csproj.CoreCompileInputs.cache
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\obj\Debug\Hodina12.10.22.exe
-C:\Users\dudacek.on.2022\Desktop\Hodina12.10.22\Hodina12.10.22\obj\Debug\Hodina12.10.22.pdb
